@@ -1,5 +1,5 @@
 # docker-tutorials
-A brief tutorial for using docker
+To get started on the Docker tutorial, click on the Wiki page.
 
-## Resources
+## Addtitional resources
 * A great [tutorial](https://docker-curriculum.com/) for getting started with Docker for web applications
